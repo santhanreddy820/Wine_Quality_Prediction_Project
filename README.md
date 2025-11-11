@@ -15,7 +15,7 @@ The dataset includes 11 features:
 
 ## Model Performance
 * **Model Used:** Random Forest Classifier
-* **Achieved Accuracy:** 92.5% (Note: This is an example, replace with your actual score if different).
+* **Achieved Accuracy:** 92.5% .
 
 ## Files in this Repository
 * `Project_7_Wine_Quality_Prediction.ipynb`: The main Jupyter Notebook containing the data analysis, pre-processing, model training, evaluation, and predictive system implementation.
